@@ -1,0 +1,7 @@
+.cardGroup{
+  display: flex;
+  justify-content: center;
+  padding: 2vw 0;
+  gap: 40px;
+  flex-wrap: wrap;
+}
